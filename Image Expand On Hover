@@ -1,0 +1,11 @@
+.hover-to-expand {
+  transition: transform 0.8s ease-in-out !important;
+}
+
+.hover-to-expand:hover {
+  transform: scale(1.1) !important;
+}
+
+
+
+Step 2: Add the class name “hover-to-expand“ to all images you want to expand on hovering.
